@@ -14,8 +14,16 @@ A modern, responsive **Contact Us** form built using HTML and CSS. Designed with
 
 ## 📸 Preview
 
-![Contact Form Preview](https://your-preview-image-or-gif-link)
-*Replace the above with a screenshot or GIF if available.*
+**Out -1**
+![Image](https://github.com/user-attachments/assets/f7eec698-eedd-42ea-a023-17079d2287e5)
+**Out -2**
+![Image](https://github.com/user-attachments/assets/6a8d1ae8-0d1e-4699-86e2-ec32e83a599a)
+**Out -3**
+![Image](https://github.com/user-attachments/assets/d7954994-65e0-4ead-9e06-2d36b01abb8c)
+**Out -4**
+![Image](https://github.com/user-attachments/assets/c00b8601-6e22-4579-ad6d-459f909bac06)
+**Out -5**
+![Image](https://github.com/user-attachments/assets/af3e18c1-3e6c-4e31-921a-d247fa3dd302)
 
 ## 🛠️ Technologies Used
 
